@@ -58,16 +58,16 @@
 ---
 
 ## ⚙️ **Ferramentas que Utilizo**
-| Categoria            | Ferramentas                                                                  |
-|----------------------|------------------------------------------------------------------------------|
-| **IDEs**             | VS Code, Jupyter Notebook, RStudio                                           |
-| **Banco Dados**      | SQL Server, MySQL, PostgreSQL                                                |
-| **Visualização**     | Power BI, Excel, Tableau, Google Data Studio                                 |
-| **Versionamento**    | Git, GitHub                                                                  |
-| **Linguagens**       | Python, R, SQL, JavaScript                                                   |
-| **Bibliotecas**      | Pandas, NumPy, Matplotlib, ggplot2, dplyr, tidyverse                         |
-| **Ambientes Online** | Google Colab                                                                 |
-| **Metodologias**     | Lean Six Sigma, Kanban, Scrum                                                       |
+| Categoria            | Ferramentas                                                                            |
+|----------------------|----------------------------------------------------------------------------------------|
+| **IDEs**                       | VS Code, Jupyter Notebook, RStudio                                           |
+| **Banco Dados**                | SQL Server, MySQL, PostgreSQL                                                |
+| **Visualização**               | Power BI, Excel, Tableau, Google Data Studio                                 |
+| **Versionamento**              | Git, GitHub                                                                  |
+| **Linguagens**                 | Python, R, SQL, JavaScript                                                   |
+| **Bibliotecas**                | Pandas, NumPy, Matplotlib, ggplot2, dplyr, tidyverse                         |
+| **Ambientes Online**           | Google Colab                                                                 |
+| **Metodologias e Métodos**     | Lean Six Sigma, Kanban, Scrum                                                |
 
 
 ---
