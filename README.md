@@ -78,6 +78,5 @@
 
 🔍 **Curiosidade:** Apaixonado por transformar dados em insights estratégicos! Atualmente explorando ETL e machine learning com Python 🐍.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoNRocha-tech&show_icons=true&theme=radical)
 
 > "Dados são como diamantes brutos: precisam ser lapidados para revelar seu verdadeiro valor." 💎
