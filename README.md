@@ -10,9 +10,11 @@
 ## 🛠️ **Habilidades Técnicas**
 ### 📊 Análise de Dados
 ![Python](https://img.shields.io/badge/Python-Básico-lightgrey?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Básico-lightgrey?logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-Intermediário-orange?logo=postgresql)
 ![PowerBI](https://img.shields.io/badge/Power_BI-Intermediário-yellowgreen?logo=powerbi)
 ![Excel](https://img.shields.io/badge/Excel-Avançado-green?logo=microsoftexcel)
+
 
 ### 🗃️ Modelagem de Dados
 - Modelagem Conceitual (BRModelo)
