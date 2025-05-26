@@ -10,6 +10,7 @@
 ## 🛠️ **Habilidades Técnicas**
 ### 📊 Análise de Dados
 ![Python](https://img.shields.io/badge/Python-Básico-lightgrey?logo=python)
+![R](https://img.shields.io/badge/R-Básico-276DC3?style=flat&logo=r)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Básico-lightgrey?logo=javascript)
 ![SQL](https://img.shields.io/badge/SQL-Básico-lightgrey?logo=postgresql)
 ![PowerBI](https://img.shields.io/badge/Power_BI-Intermediário-yellowgreen?logo=powerbi)
