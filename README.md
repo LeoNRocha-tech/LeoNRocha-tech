@@ -40,7 +40,14 @@
 - **Lean Six Sigma: um guia para melhoria de processos - Alura (fev/2024)**  
 - **Formação Business Intelligence com Excel - Alura (jan/2024)**  
 - **Formação Excel - Alura (jan/2024)**  
-- **Kanban: análises para implementação - Alura (jan/2024)**  
+- **Kanban: análises para implementação - Alura (jan/2024)**
+
+## 🎓 **Formação Acadêmica**
+
+- **Bacharelado em Administração - Universidade Paulista (UNIP)** *(2020 – 2024)*  
+- **Curso Técnico em Administração - ETEC – Escola Técnica Estadual de São Paulo** *(jan/2019 – jul/2020)*  
+- **Engenharia do Petróleo - Universidade Santa Cecília** *(jan/2013 – jan/2017)* — *Curso trancado*
+
 
 ### 🎓 Cursos em Andamentos 
 - Oracle Next Education - Data Science *(Cursando)*
