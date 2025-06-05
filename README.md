@@ -26,24 +26,37 @@
 
 ## 🎓 **Formação & Certificações**
 
-- **Modelagem de dados: identificando entidades, atributos, relacionamentos - Alura (mai/2025)**  
-- **Share Data Through the Art of Visualization - Google (abr/2025)**  
-- **Analyze Data to Answer Questions - Google (fev/2025)**  
-- **Process Data from Dirty to Clean - Google (fev/2025)**  
-- **Formação Desenvolvimento Pessoal - Alura (jan/2025)**  
-- **Gestão de Custos - Fundação Getulio Vargas (dez/2024)**  
-- **Prepare Data for Exploration - Google (dez/2024)**  
-- **Foundations: Data, Data, Everywhere - Google (nov/2024)**  
-- **Ask Questions to Make Data-Driven Decisions - Google Career Certificates (nov/2024)**  
-- **Formação Microsoft SQL Server 2022 - Alura (jul/2024)**  
-- **NumPy: análise numérica eficiente com Python - Alura (jul/2024)**  
-- **Python para Data Science: trabalhando com funções, estruturas de dados e exceções - Alura (jul/2024)**  
-- **Formação Conhecendo SQL - Alura (abr/2024)**  
-- **Python para Data Science: primeiros passos - Alura (mar/2024)**  
-- **Lean Six Sigma: um guia para melhoria de processos - Alura (fev/2024)**  
-- **Formação Business Intelligence com Excel - Alura (jan/2024)**  
-- **Formação Excel - Alura (jan/2024)**  
-- **Kanban: análises para implementação - Alura (jan/2024)**
+- #### **2025**
+
+* **Data Analysis with R Programming – Google (mai/2025)**
+* **Formação Modelagem de Dados com Python G8 – ONE – Oracle Next Education – Alura (mai/2025)**
+* **Formação Iniciante em Programação G8 – ONE – Oracle Next Education – Alura (mar/2025)**
+* **Share Data Through the Art of Visualization – Google Career Certificates (abr/2025)**
+* **Analyze Data to Answer Questions – Google (fev/2025)**
+* **Process Data from Dirty to Clean – Google (fev/2025)**
+* **Formação Desenvolvimento Pessoal G8 – ONE – Oracle Next Education – Alura (jan/2025)**
+
+#### **2024**
+
+* **Gestão de Custos – Fundação Getulio Vargas (dez/2024)**
+* **Prepare Data for Exploration – Google (dez/2024)**
+* **Foundations: Data, Data, Everywhere – Google (nov/2024)**
+* **Ask Questions to Make Data-Driven Decisions – Google Career Certificates (nov/2024)**
+* **Formação Microsoft SQL Server 2022 – Alura (jul/2024)**
+* **NumPy: análise numérica eficiente com Python – Alura (jul/2024)**
+* **Python para Data Science: trabalhando com funções, estruturas de dados e exceções – Alura (jul/2024)**
+* **Formação Conhecendo SQL – Alura (abr/2024)**
+* **Python para Data Science: primeiros passos – Alura (mar/2024)**
+* **Lean Six Sigma: um guia para melhoria de processos – Alura (fev/2024)**
+* **Formação Business Intelligence com Excel – Alura (jan/2024)**
+* **Formação Excel – Alura (jan/2024)**
+* **Kanban: análises para implementação – Alura (jan/2024)**
+
+#### **2023**
+
+* **Cultura e Métodos Ágeis: pilares para uma imersão avançada – Alura (nov/2023)**
+* **Scrum: agilidade em seu projeto – Alura (nov/2023)**
+* **Formação Power BI – Alura (ago/2023)**
 
 ## 🎓 **Formação Acadêmica**
 
