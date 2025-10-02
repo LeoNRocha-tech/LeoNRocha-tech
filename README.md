@@ -109,10 +109,10 @@
 
 ## 🌐 Formação em andamento 
 
-## 🧠 **Scoras Academy**
+## 🧠 - **Scoras Academy**
  
   Curso avançado focado em Inteligência Artificial aplicada, abordando temas como:
-  📅 Início em *Set/2025* 
+
   - Agentes de IA e Agentic-Workflows  
   - LangGraph  
   - Small Language Models (SLMs)  
@@ -120,15 +120,18 @@
   - Model Context Protocol (MCP)  
   - PydanticAI  
   - Projetos práticos com código aberto no GitHub
+    
+  📅 Início em *Set/2025* 
 
 ## 🧠 – **Inglês**
 
 - **SEDA College – Hungria | Língua Inglesa e Literaturas de Língua Inglesa (Intermediário 1)**
-  Projeto: **Brasil Bilíngue – SEDA College** 
+  Projeto: **Brasil Bilíngue – SEDA College**
+  
   📅 Início em *Ago/2025* 
-
+---
 ✨ *Sempre buscando evolução contínua em tecnologia, análise de dados e inteligência de negócios.*
-
+---
 
 ## 🎓 **Formação Acadêmica**
 
