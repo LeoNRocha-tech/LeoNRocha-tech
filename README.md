@@ -29,7 +29,6 @@
 ![Alura](https://img.shields.io/badge/Alura-Cursos-blue)
 ![Oracle Next Education](https://img.shields.io/badge/Oracle-Next%20Education-red)
 ![Google](https://img.shields.io/badge/Google-Data%20Analytics-orange)
-![Lifelong Learning](https://img.shields.io/badge/Learning-Sempre%20em%20Evolução-green)
 
 ---
 
@@ -79,12 +78,12 @@
 
 ## 🤝 Formações pela **Alura + Oracle Next Education (ONE)**
 
-- **Formação Desenvolvimento Pessoal G8 - ONE** – Concluído em *19/01/2025*  
-- **Formação Iniciante em Programação G8 - ONE** – Concluído em *18/03/2025*  
-- **Formação Empreendedorismo, Agilidade e Protagonismo na Carreira G8 - ONE** – Concluído em *23/05/2025*  
-- **Formação Modelagem de Dados com Python G8 - ONE** – Concluído em *28/05/2025*  
-- **Formação Aprendendo a fazer ETL G8 - ONE** – Concluído em *19/08/2025*  
-- **Formação Estatística e Machine Learning G8 - ONE** – Concluído em *20/08/2025*  
+- **Formação Desenvolvimento Pessoal G8 - ONE** – Concluído em *2025*  
+- **Formação Iniciante em Programação G8 - ONE** – Concluído em *2025*  
+- **Formação Empreendedorismo, Agilidade e Protagonismo na Carreira G8 - ONE** – Concluído em *2025*  
+- **Formação Modelagem de Dados com Python G8 - ONE** – Concluído em *2025*  
+- **Formação Aprendendo a fazer ETL G8 - ONE** – Concluído em *2025*  
+- **Formação Estatística e Machine Learning G8 - ONE** – Concluído em *2025*  
 
 📄 [🔗 Ver certificado consolidado no perfil da Alura + ONE](https://cursos.alura.com.br/user/leonardon-rocha/program/14/certificate)
 
@@ -95,14 +94,14 @@
 - **Google Data Analytics Professional Certificate**  
   ✅ Concluído em *18/06/2025*  
   Desenvolvido pelo Google, composto pelos seguintes 8 cursos:  
-  1. Foundations: Data, Data, Everywhere  
-  2. Ask Questions to Make Data-Driven Decisions  
-  3. Prepare Data for Exploration  
-  4. Process Data from Dirty to Clean  
-  5. Analyze Data to Answer Questions  
-  6. Share Data Through the Art of Visualization  
-  7. Data Analysis with R Programming  
-  8. Google Data Analytics Capstone: Complete a Case Study  
+  -Foundations: Data, Data, Everywhere  
+  -Ask Questions to Make Data-Driven Decisions  
+  -Prepare Data for Exploration  
+  -Process Data from Dirty to Clean  
+  -Analyze Data to Answer Questions  
+  -Share Data Through the Art of Visualization  
+  -Data Analysis with R Programming  
+  -Google Data Analytics Capstone: Complete a Case Study  
 
 📄 [🔗 Ver certificado](https://www.coursera.org/account/accomplishments/specialization/certificate/ZXNXM1VBF3HQ)
 
