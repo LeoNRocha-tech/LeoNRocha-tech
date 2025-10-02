@@ -24,50 +24,112 @@
 
 ---
 
-## 🎓 **Formação & Certificações**
+# 📚 Formações e Certificações
 
-- #### **2025**
+![Alura](https://img.shields.io/badge/Alura-Cursos-blue)
+![Oracle Next Education](https://img.shields.io/badge/Oracle-Next%20Education-red)
+![Google](https://img.shields.io/badge/Google-Data%20Analytics-orange)
+![Lifelong Learning](https://img.shields.io/badge/Learning-Sempre%20em%20Evolução-green)
 
-* **Data Analysis with R Programming – Google (mai/2025)**
-* **Formação Modelagem de Dados com Python G8 – ONE – Oracle Next Education – Alura (mai/2025)**
-* **Formação Iniciante em Programação G8 – ONE – Oracle Next Education – Alura (mar/2025)**
-* **Share Data Through the Art of Visualization – Google Career Certificates (abr/2025)**
-* **Analyze Data to Answer Questions – Google (fev/2025)**
-* **Process Data from Dirty to Clean – Google (fev/2025)**
-* **Formação Desenvolvimento Pessoal G8 – ONE – Oracle Next Education – Alura (jan/2025)**
+---
 
-#### **2024**
+## 🎓 Formações pela Alura
 
-* **Gestão de Custos – Fundação Getulio Vargas (dez/2024)**
-* **Prepare Data for Exploration – Google (dez/2024)**
-* **Foundations: Data, Data, Everywhere – Google (nov/2024)**
-* **Ask Questions to Make Data-Driven Decisions – Google Career Certificates (nov/2024)**
-* **Formação Microsoft SQL Server 2022 – Alura (jul/2024)**
-* **NumPy: análise numérica eficiente com Python – Alura (jul/2024)**
-* **Python para Data Science: trabalhando com funções, estruturas de dados e exceções – Alura (jul/2024)**
-* **Formação Conhecendo SQL – Alura (abr/2024)**
-* **Python para Data Science: primeiros passos – Alura (mar/2024)**
-* **Lean Six Sigma: um guia para melhoria de processos – Alura (fev/2024)**
-* **Formação Business Intelligence com Excel – Alura (jan/2024)**
-* **Formação Excel – Alura (jan/2024)**
-* **Kanban: análises para implementação – Alura (jan/2024)**
+- **Formação Power BI**  
+  ✅ Concluído em *06/08/2023*  
+  [🔗 Ver certificado](https://cursos.alura.com.br/user/leonardon-rocha/degree-power-bi-v622625-622625/certificate)
 
-#### **2023**
+- **Formação Excel**  
+  ✅ Concluído em *10/01/2024*  
+  [🔗 Ver certificado](https://cursos.alura.com.br/user/leonardon-rocha/degree-excel-624882/certificate)
 
-* **Cultura e Métodos Ágeis: pilares para uma imersão avançada – Alura (nov/2023)**
-* **Scrum: agilidade em seu projeto – Alura (nov/2023)**
-* **Formação Power BI – Alura (ago/2023)**
+- **Formação Business Intelligence com Excel**  
+  ✅ Concluído em *23/01/2024*  
+  [🔗 Ver certificado](https://cursos.alura.com.br/user/leonardon-rocha/degree-business-intelligence-excel-502020/certificate)
+
+- **Formação Conhecendo SQL**  
+  ✅ Concluído em *04/04/2024*  
+  [🔗 Ver certificado](https://cursos.alura.com.br/user/leonardon-rocha/degree-conhecendo-sql-690732/certificate)
+
+- **Formação A partir do zero: iniciante em programação**  
+  ✅ Concluído em *18/05/2024*  
+  [🔗 Ver certificado](https://cursos.alura.com.br/user/leonardon-rocha/degree-programacao-662273/certificate)
+
+- **Formação Microsoft SQL Server 2022**  
+  ✅ Concluído em *10/07/2024*  
+  [🔗 Ver certificado](https://cursos.alura.com.br/user/leonardon-rocha/degree-microsoft-sql-server-2022-501719/certificate)
+
+- **Lean Six Sigma: um guia para melhoria de processos – Alura**  
+  ✅ Concluído em *02/2024*  
+  [🔗 Ver certificado](https://cursos.alura.com.br/user/leonardon-rocha/course/lean-six-sigma-guia-melhoria-processos/certificate)
+
+- **Kanban: análises para implementação – Alura**  
+  ✅ Concluído em *01/2024*  
+  [🔗 Ver certificado](https://cursos.alura.com.br/user/leonardon-rocha/course/kanban-analises-implementacao/certificate)
+
+- **Cultura e Métodos Ágeis: pilares para uma imersão avançada – Alura**  
+  ✅ Concluído em *11/2023*  
+  [🔗 Ver certificado](https://cursos.alura.com.br/user/leonardon-rocha/course/cultura-metodos-ageis-pilares-imersao-avancada/certificate)
+
+- **Scrum: agilidade em seu projeto – Alura**  
+  ✅ Concluído em *11/2023*  
+  [🔗 Ver certificado](https://cursos.alura.com.br/user/leonardon-rocha/course/scrum-agilidade-seu-projeto/certificate)
+
+---
+
+## 🤝 Formações pela **Alura + Oracle Next Education (ONE)**
+
+- **Formação Desenvolvimento Pessoal G8 - ONE** – Concluído em *19/01/2025*  
+- **Formação Iniciante em Programação G8 - ONE** – Concluído em *18/03/2025*  
+- **Formação Empreendedorismo, Agilidade e Protagonismo na Carreira G8 - ONE** – Concluído em *23/05/2025*  
+- **Formação Modelagem de Dados com Python G8 - ONE** – Concluído em *28/05/2025*  
+- **Formação Aprendendo a fazer ETL G8 - ONE** – Concluído em *19/08/2025*  
+- **Formação Estatística e Machine Learning G8 - ONE** – Concluído em *20/08/2025*  
+
+📄 [🔗 Ver certificado consolidado no perfil da Alura + ONE](https://cursos.alura.com.br/user/leonardon-rocha/program/14/certificate)
+
+---
+
+## 🌍 Formação **Google**
+
+- **Google Data Analytics Professional Certificate**  
+  ✅ Concluído em *18/06/2025*  
+  Desenvolvido pelo Google, composto pelos seguintes 8 cursos:  
+  1. Foundations: Data, Data, Everywhere  
+  2. Ask Questions to Make Data-Driven Decisions  
+  3. Prepare Data for Exploration  
+  4. Process Data from Dirty to Clean  
+  5. Analyze Data to Answer Questions  
+  6. Share Data Through the Art of Visualization  
+  7. Data Analysis with R Programming  
+  8. Google Data Analytics Capstone: Complete a Case Study  
+
+📄 [🔗 Ver certificado](https://www.coursera.org/account/accomplishments/specialization/certificate/ZXNXM1VBF3HQ)
+
+---
+## 🧠 Formação **Scoras Academy**
+
+  📅 Em andamento  
+  Curso avançado focado em Inteligência Artificial aplicada, abordando temas como:
+
+  - Agentes de IA e Agentic-Workflows  
+  - LangGraph  
+  - Small Language Models (SLMs)  
+  - Retrieval Augmented Generation (RAG)  
+  - Model Context Protocol (MCP)  
+  - PydanticAI  
+  - Projetos práticos com código aberto no GitHub
+
+✨ *Sempre buscando evolução contínua em tecnologia, análise de dados e inteligência de negócios.*
+
 
 ## 🎓 **Formação Acadêmica**
 
+- **Superior de Tecnologia em Inteligência Artificial - Universidade Cruzeiro do Sul** *(Ago/2025 - Ago/2027)* - *Cursando*
 - **Bacharelado em Administração - Universidade Paulista (UNIP)** *(2020 – 2024)*  
 - **Curso Técnico em Administração - ETEC – Escola Técnica Estadual de São Paulo** *(jan/2019 – jul/2020)*  
 - **Engenharia do Petróleo - Universidade Santa Cecília** *(jan/2013 – jan/2017)* — *Curso trancado*
 
-
-### 🎓 Cursos em Andamentos 
-- Oracle Next Education - Data Science *(Cursando)*
-- Google Data Analytics *(Cursando)*
   
 ---
 
